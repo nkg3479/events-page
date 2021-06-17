@@ -1,0 +1,96 @@
+@media screen and (max-width:700px){
+    html{margin-left: -3%;}
+    .header{
+        display: flex;
+        width:90vw;
+    }
+    .head{
+        display:block;
+        width: 100vw;
+        height:auto;
+    }
+    .nav{
+        display: flex;
+        width:45vw;
+        height:9vw;
+        margin-left: 2%;
+        margin-right: -6vw;
+        top:0vw;
+    }
+    .head1{
+        font-size: 2vw;
+        height:auto;
+        line-height:90%;
+        width:70%;
+    }
+    .head2{
+
+        padding: 1vw;
+    }
+    .head3{
+        line-height: 90%;
+        height:auto;
+
+    }
+    .head3a{
+        position: relative;
+        width: auto;
+        height: auto;
+        margin-bottom:-10%;
+
+    }
+    .home{
+        font-size: 3vw;
+        height: 5vw;
+        width: 12vw;
+
+    }
+    .event{
+        font-size: 3vw;
+        height: 5vw;
+        width: 12vw;
+              
+    }
+    .contact{
+        font-size: 3vw;
+        height: 5vw;
+        width: 17vw;
+    }
+    .gr{
+        margin-left: -2%;
+        margin-top: -5vw;
+        width: 50vw;
+        height: auto;
+        font-size: 5vw;
+    }
+    .txt{
+        font-size: 4.5vw;
+        height: auto;
+        width: 54vw;
+        right: 28vw;
+        bottom: 8vw;
+    }
+    .di{
+        display:flex;
+        width: 90%;
+        flex-wrap: wrap ;
+    }
+    .gry{
+        display: flex;
+        float: right;
+        right:60vw;
+        width:90vw;
+        height: auto;
+        font-size: 6vw;
+        bottom: 8vw;
+        left:auto;
+    }.im{
+        position: absolute;
+        width: 90%;
+        height:60%;
+    }
+    #gl{
+        margin-left :0.4%;
+        width: 95vw;
+    }
+}
